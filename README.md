@@ -11,7 +11,6 @@ quantised local LLMs (Hy-MT 1.5, Whisper, BitNet-class models).
 #### Now
 
 - **[Calque](https://github.com/dkleptsov/calque)** — offline MS Office translator for macOS (Tauri 2, 1.25-bit Hy-MT).
-- **[DocLingua](https://github.com/dkleptsov/doclingua)** — sibling experiment in the same problem space.
 - **PII Privacy Filter** — local, on-device PII redaction for macOS ([privacy policy](https://github.com/dkleptsov/pii_filter_mac_privacy)).
 
 #### Selected work
