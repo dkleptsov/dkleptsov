@@ -24,7 +24,7 @@ Currently focused on **Apple Silicon**: shipping native macOS apps powered by
 **quantised local LLMs** (Hy-MT 1.5, Whisper, BitNet-class models). No cloud round-trips,
 no data leaving the machine — privacy by design, not by policy.
 
-- 🔭 Building **[Calque](https://github.com/dkleptsov/calque)** — an offline MS Office translator for macOS.
+- 🔭 Building **[Bobr Translate](https://github.com/dkleptsov/bobr-translate-docs)** — an offline MS Office translator for macOS.
 - 🧠 Interested in on-device inference, agentic workflows, and shrinking models to fit the edge.
 - 🌍 Languages: 🇬🇧 English · 🇷🇺 Russian · 🇪🇸 Spanish (learning).
 - 💬 Ask me about local LLMs, Tauri, quantisation, and privacy-preserving ML.
@@ -65,9 +65,8 @@ no data leaving the machine — privacy by design, not by policy.
 
 | Project | Description |
 | --- | --- |
-| 🌐 **[Calque](https://github.com/dkleptsov/calque)** | Offline MS Office translator for macOS — translate `.docx` / `.xlsx` / `.pptx` fully on-device (Tauri 2, 1.25-bit Hy-MT). No cloud, no leaks. |
 | 🔒 **[PII Privacy Filter](https://github.com/dkleptsov/pii_filter_mac_privacy)** | Local, on-device PII detection & redaction for macOS — strip names, emails, and IDs before text ever leaves your Mac. |
-| 🦫 **[Bobr Translate](https://github.com/dkleptsov/bobr-translate-docs)** | Privacy-first document translation — public site, support, and privacy policy. |
+| 🦫 **[Bobr Translate](https://github.com/dkleptsov/bobr-translate-docs)** | Offline MS Office translator for macOS — translate `.docx` / `.xlsx` / `.pptx` fully on-device (Tauri 2). No cloud, no leaks. |
 
 ### 🤖 AI Agents & LLM Tooling
 
