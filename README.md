@@ -105,16 +105,7 @@ no data leaving the machine — privacy by design, not by policy.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dkleptsov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkleptsov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=dkleptsov&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dkleptsov&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 <br/>
 
