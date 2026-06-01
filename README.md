@@ -66,7 +66,7 @@ no data leaving the machine — privacy by design, not by policy.
 | Project | Description |
 | --- | --- |
 | 🔒 **[PII Privacy Filter](https://github.com/dkleptsov/pii_filter_mac_privacy)** | Local, on-device PII detection & redaction for macOS — strip names, emails, and IDs before text ever leaves your Mac. |
-| 🦫 **[Bobr Translate](https://github.com/dkleptsov/bobr-translate-docs)** | Offline MS Office translator for macOS — translate `.docx` / `.xlsx` / `.pptx` fully on-device (Tauri 2). No cloud, no leaks. **[⬇️ Mac App Store](https://apps.apple.com/es/app/bobr-translate/id6768763653)** |
+| 🦫 **[Bobr Translate](https://github.com/dkleptsov/bobr-translate-docs)** | Offline MS Office translator for macOS — translate `.docx` / `.xlsx` / `.pptx` fully on-device (Tauri 2). No cloud, no leaks. <br/> [![Download on the Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/es/app/bobr-translate/id6768763653) |
 
 ### 🤖 AI Agents & LLM Tooling
 
